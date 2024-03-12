@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fname": "Amad - n",
+    "lname": "alhajj",
+    "age": 32,
+    "city": "makkah"
+  },
+  { "id": 3, "fname": "Emad", "lname": "Hussam", "age": 30, "city": "makkah" },
+  { "id": 5, "fname": "Maher", "lname": "yesyd", "age": 45, "city": "makkah" },
+  { "id": 7, "fname": "saad", "lname": "yha", "age": 25, "city": "makkah" },
+  { "id": 9, "fname": "ali", "lname": "smaah", "age": 29, "city": "makkah" },
+  { "id": 10, "fname": "said", "lname": "sammi", "age": 26, "city": "makkah" }
+]
